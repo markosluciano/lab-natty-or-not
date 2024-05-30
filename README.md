@@ -1,29 +1,19 @@
-
-# Criação de um Ebook com ajuda de IA's
+# Comandos Básicos de HTML e CSS para Iniciantes.
 
 ## 📒 Descrição
-Realizado a criação de um ebook com parte do desafio de projeto do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 
+Este e-book de 19 páginas serve para ajudar quem esta começando a utilizar HTML e CSS.
 
 ## 🤖 Tecnologias Utilizadas
-Ferramentas usadas:
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Gamma App]( https://gamma.app/)** para criar a arte visual do e-book;
 
-1) ChatGPT https://chatgpt.com/ - Roteiro do Ebook
-2) Gamma app https://gamma.app/  - Edição do Ebook
-3) Lightshot https://app.prntscr.com/pt-br/download.html - captura de imagens 
-   
 ## 🧐 Processo de Criação
-1) Realizada a solicitação de ajudo no ChatGpt para a criação de um Ebook sobre "Comandos Básicos de HTML e CSS para Iniciantes".
-2) Utilizado o Gamma App na diagramação automática apenas inserindo o texto cpoiado do ChatGPT.
-3) Depois do Ebook gerado, realizado ajuste no texto inserida as imagem dos codigos de exemplo capturadas com a Lightshot.
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre Comandos Básicos de HTML e CSS para Iniciantes, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Gamma App" foi usado para gerar o meu  e-book.
 
 ## 🚀 Resultados
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como Comandos Básicos de HTML e CSS para Iniciantes podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-- [CONFIRA O E-BOOK AQUI](/exemplos/E-BOOK.md)
+[LINK PARA O E-BOOK AQUI](/exemplos/E-BOOK.md)
 
-
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
